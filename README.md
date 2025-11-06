@@ -27,7 +27,7 @@ nano dockerfile
 ```
 
 Then Copy & Paste In dockerfile
-ubuntu:22.04  -- this is ubuntu virgin
+ubuntu:22.04  -- this is ubuntu version
 
 Password -- Depends you 
 
