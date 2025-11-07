@@ -16,9 +16,13 @@ apt update
 
 ## 2. Docker Install 
 
+docker install using official documention..
+
 ```shell
 apt install docker.io -y
 ```
+this command is un-official
+
 
 ## 3. Write Dockerfile
 
