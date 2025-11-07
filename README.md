@@ -8,7 +8,7 @@ Connect Instances
 ```shell
 sudo -i
 ```
--- Update Instances
+ Update Instances
 
 ```shell
 apt update
